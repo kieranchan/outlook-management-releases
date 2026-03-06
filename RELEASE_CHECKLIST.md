@@ -7,6 +7,7 @@
 - 确认关键功能可用：登录、Token 刷新、邮件拉取、详情查看
 - 确认主题、下拉框、分栏布局、窗口缩放无明显异常
 - 重新打包 zip 成品
+- 按 `RELEASE_NAMING.md` 统一命名文件
 - 生成并核对 SHA256
 - 更新 `README.md`
 - 更新 `RELEASE_NOTES.md`
@@ -22,6 +23,7 @@
 ### 发布后
 - 本地下载一次附件做回归检查
 - 检查 `releases/latest` 是否可正常访问
+- 确认 `latest` 已指向最新非草稿版本
 - 对外分享 Release 链接，而不是源码仓库链接
 
 ---
@@ -33,6 +35,7 @@
 - Verify critical flows: sign-in, token refresh, mail fetching, and detail view
 - Check themes, dropdowns, split layout, and window resizing
 - Rebuild packaged zip artifacts
+- Rename files according to `RELEASE_NAMING.md`
 - Generate and verify SHA256 checksums
 - Update `README.md`
 - Update `RELEASE_NOTES.md`
@@ -48,4 +51,5 @@
 ### After release
 - Download the assets once locally for a quick regression check
 - Verify `releases/latest` is accessible
+- Confirm `latest` points to the newest non-draft release
 - Share the Release link publicly instead of the source repository link
