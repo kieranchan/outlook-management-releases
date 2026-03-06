@@ -1,4 +1,4 @@
-# Release Notes / 发布说明
+﻿# Release Notes / 发布说明
 
 ## v1.0.0 · 2026-03-06
 
@@ -11,8 +11,8 @@
 - 支持批量刷新 Token
 - 支持批量并发拉取邮件
 - 支持失败账号重试
-- 修复了下拉框选项显示问题
-- 修复了并发拉取邮件不可用的问题
+- 修复下拉框选项显示问题
+- 修复并发拉取邮件不可用的问题
 
 #### 经典版
 - 保留为稳定备用界面
@@ -20,8 +20,8 @@
 - 可用于兼容或回退场景
 
 #### 发布附件
-- `Outlook邮件工具-新版-win64-20260306.zip`
-- `Outlook邮件工具-经典版-win64-20260306.zip`
+- `outlook-management-modern-win64-20260306.zip`
+- `outlook-management-classic-win64-20260306.zip`
 
 ---
 
@@ -43,5 +43,5 @@
 - Suitable for compatibility or rollback scenarios
 
 #### Release assets
-- `Outlook邮件工具-新版-win64-20260306.zip`
-- `Outlook邮件工具-经典版-win64-20260306.zip`
+- `outlook-management-modern-win64-20260306.zip`
+- `outlook-management-classic-win64-20260306.zip`
