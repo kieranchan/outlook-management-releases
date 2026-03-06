@@ -4,6 +4,11 @@
 
 ### 中文
 
+#### 本次发布
+- 发布新版与经典版两个可执行成品包
+- 发布独立的 GitHub 成品仓库，便于直接下载和分享
+- 提供 SHA256 校验文件，便于校验完整性
+
 #### 新版
 - 使用 Qt 左中右主布局
 - 支持多主题切换
@@ -26,6 +31,11 @@
 ---
 
 ### English
+
+#### Release Summary
+- Ships both the modern and classic executable packages
+- Publishes a standalone GitHub release repository for direct download and sharing
+- Includes a SHA256 checksum file for integrity verification
 
 #### Modern edition
 - Uses the Qt three-panel layout
