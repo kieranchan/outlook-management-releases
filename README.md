@@ -21,6 +21,19 @@
 - 新版：默认推荐，使用 Qt 左中右主布局，支持多主题、窗口状态记忆、批量操作与并发拉取邮件。
 - 经典版：保留为稳定备用版本，适合兼容、回退或偏好旧界面的场景。
 
+### 界面预览
+
+<table>
+  <tr>
+    <th>新版 / Modern</th>
+    <th>经典版 / Classic</th>
+  </tr>
+  <tr>
+    <td><img src="assets/modern-ui.png" alt="新版界面" /></td>
+    <td><img src="assets/classic-ui.png" alt="经典版界面" /></td>
+  </tr>
+</table>
+
 ### 使用方法
 1. 进入 **Releases** 页面下载所需 zip 压缩包。
 2. 将整个压缩包完整解压到本地目录。
@@ -57,6 +70,9 @@ It provides packaged binaries only and does **not** include source code.
 ### Edition Guide
 - Modern edition: recommended by default, uses the Qt three-panel layout and supports themes, window state persistence, batch actions, and concurrent mail fetching.
 - Classic edition: kept as a stable fallback for compatibility, rollback, or users who prefer the older interface.
+
+### UI Preview
+The screenshots above show the modern and classic editions side by side.
 
 ### How to Use
 1. Open the **Releases** page and download the zip package you need.
