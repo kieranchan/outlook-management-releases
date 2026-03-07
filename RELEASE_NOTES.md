@@ -5,7 +5,8 @@
 ### 中文
 
 #### 本次发布
-- 发布新版与经典版两个可执行成品包
+- 发布新版与经典版两个可执行便携包
+- 新增安装版 `Setup.exe`，适合普通用户直接安装使用
 - 发布独立的 GitHub 成品仓库，便于直接下载和分享
 - 提供 SHA256 校验文件，便于校验完整性
 
@@ -25,6 +26,7 @@
 - 可用于兼容或回退场景
 
 #### 发布附件
+- `outlook-management-setup-v1.0.0.exe`
 - `outlook-management-modern-win64-20260306.zip`
 - `outlook-management-classic-win64-20260306.zip`
 
@@ -33,7 +35,8 @@
 ### English
 
 #### Release Summary
-- Ships both the modern and classic executable packages
+- Ships both the modern and classic portable packages
+- Adds an installer package `Setup.exe` for normal end users
 - Publishes a standalone GitHub release repository for direct download and sharing
 - Includes a SHA256 checksum file for integrity verification
 
@@ -53,5 +56,6 @@
 - Suitable for compatibility or rollback scenarios
 
 #### Release assets
+- `outlook-management-setup-v1.0.0.exe`
 - `outlook-management-modern-win64-20260306.zip`
 - `outlook-management-classic-win64-20260306.zip`
